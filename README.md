@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aditi+Saha&fontColor=ffffff&fontSize=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header" width="100%"/>
+
 <table>
 <tr>
 <td align="center" width="100%">
@@ -18,7 +19,7 @@
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=B76CFD&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+Real-World+Intelligent+Systems+%E2%9A%A1" />
+<p align="center"><b>Full-Stack Developer</b> &nbsp;|&nbsp; AI/ML Enthusiast</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=aditisaha1089&label=PROFILE+VIEWS&color=B76CFD&style=for-the-badge"/>
@@ -34,25 +35,32 @@
 
 <br/>
 
+
 <img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/coding.gif"/>
 
-## 👋 About Me
+## About Me
 
-```yaml
-aditi_saha:
-  currently_working_on: "Building scalable full-stack applications and improving problem-solving skills"
-  open_to_collaborate: "Open-source projects, backend systems, real-world impactful apps"
-  looking_for_help_with: "System design, advanced DSA, scalable architecture"
-  currently_learning: ["Data Structures & Algorithms", "Backend Development", "System Design"]
-  ask_me_about: ["DSA", "Java", "Python", "Web Development", "AI/ML"]
-  fun_fact: "I enjoy solving complex problems and optimizing code for performance ⚡"
+```bash
+$ whoami
+> Full-Stack Developer building scalable applications, with a growing
+  focus on AI/ML-driven, real-world intelligent systems.
+
+$ cat focus.txt
+  Building          → Scalable full-stack applications
+  Currently learning → Data Structures & Algorithms, Backend Dev, System Design
+  Open to           → Open-source projects, backend systems, impactful apps
+  Looking for help  → System design, advanced DSA, scalable architecture
+  Ask me about      → DSA, Java, Python, Web Development, AI/ML
+
+$ echo $PHILOSOPHY
+"I enjoy solving complex problems and optimizing code for performance."
 ```
 
 <br clear="both"/>
 
 ---
 
-<h2 align="center">💻 Skills</h2>
+<h2 align="center">Skills</h2>
 
 <div align="center">
 
@@ -86,7 +94,7 @@ aditi_saha:
 
 </div>
 
-### 📈 Proficiency
+### Proficiency
 
 ```text
 DSA & Algorithms   ██████████████████████░░  90%
@@ -98,7 +106,7 @@ System Design      █████████████████░░░�
 
 ---
 
-<h2 align="center">🐍 Live Contribution Snake</h2>
+<h2 align="center">Live Contribution Snake</h2>
 
 <p align="center">
   <picture>
@@ -112,11 +120,11 @@ System Design      █████████████████░░░�
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=aditisaha1089&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditisaha1089&layout=compact&theme=radical&border_radius=10"/>
+<img height="175em" src="https://github-stats-extended.vercel.app/api?username=aditisaha1089&show_icons=true&theme=radical&rank_icon=github&border_radius=10&cache_seconds=1800"/>
+<img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aditisaha1089&layout=compact&theme=radical&border_radius=10&cache_seconds=1800"/>
 </div>
 
 <div align="center">
@@ -131,15 +139,17 @@ System Design      █████████████████░░░�
 <img src="https://github-profile-trophy.vercel.app/?username=aditisaha1089&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </div>
 
+> 💡 All stats/pin cards above use **[github-stats-extended](https://github-stats-extended.vercel.app)**, the actively-maintained, stable successor to the old `github-readme-stats.vercel.app` (which has been repeatedly paused by its maintainer).
+
 ---
 
-<h2 align="center">⭐ Featured Project</h2>
+<h2 align="center">Featured Project</h2>
 
 <table align="center">
 <tr>
 <td width="100%">
 
-### 💊 [NeuRx_AI](https://github.com/aditisaha1089/NeuRx_AI) — Intelligent Drug Recommendation System
+### [NeuRx_AI](https://github.com/aditisaha1089/NeuRx_AI) — Intelligent Drug Recommendation System
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
@@ -147,9 +157,9 @@ System Design      █████████████████░░░�
 
 Analyzes 215,000+ real patient drug reviews using NLP sentiment analysis (VADER) and a 6-feature composite scoring formula to rank the most effective drugs for 138+ medical conditions — with confidence levels, side-effect rates, and plain-English explanations. Deployed full-stack: React/Vite frontend, FastAPI backend, sub-100ms API responses.
 
-**🔗 [Live Demo](https://neurx.vercel.app)** &nbsp;|&nbsp; **⚙️ [API](https://neurx-ai-5i62.onrender.com)** &nbsp;|&nbsp; **📖 [API Docs](https://neurx-ai-5i62.onrender.com/docs)**
+**[Live Demo](https://neurx.vercel.app)** &nbsp;|&nbsp; **[API](https://neurx-ai-5i62.onrender.com)** &nbsp;|&nbsp; **[API Docs](https://neurx-ai-5i62.onrender.com/docs)**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aditisaha1089&repo=NeuRx_AI&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=aditisaha1089&repo=NeuRx_AI&theme=radical&hide_border=true"/>
 
 </td>
 </tr>
@@ -157,46 +167,46 @@ Analyzes 215,000+ real patient drug reviews using NLP sentiment analysis (VADER)
 
 ---
 
-<h2 align="center">🚀 More Projects</h2>
+<h2 align="center">More Projects</h2>
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### 📴 [Off_Payy](https://github.com/aditisaha1089/Off_Payy)
+### [Off_Payy](https://github.com/aditisaha1089/Off_Payy)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 Offline-first payments concept application.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aditisaha1089&repo=Off_Payy&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=aditisaha1089&repo=Off_Payy&theme=radical&hide_border=true"/>
 
 </td>
 <td width="50%">
 
-### 📈 [Amazon_Sales_Trend_Analysis_AI](https://github.com/aditisaha1089/Amazon_Sales_Trend_Analysis_AI)
+### [Amazon_Sales_Trend_Analysis_AI](https://github.com/aditisaha1089/Amazon_Sales_Trend_Analysis_AI)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 AI-driven analysis of Amazon sales trends.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aditisaha1089&repo=Amazon_Sales_Trend_Analysis_AI&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=aditisaha1089&repo=Amazon_Sales_Trend_Analysis_AI&theme=radical&hide_border=true"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🚕 [Traffic_Demand_Prediction](https://github.com/aditisaha1089/Traffic_Demand_Prediction)
+### [Traffic_Demand_Prediction](https://github.com/aditisaha1089/Traffic_Demand_Prediction)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 Predictive modeling for traffic demand patterns.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aditisaha1089&repo=Traffic_Demand_Prediction&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=aditisaha1089&repo=Traffic_Demand_Prediction&theme=radical&hide_border=true"/>
 
 </td>
 <td width="50%">
 
-### ✅ [toDoList](https://github.com/aditisaha1089/toDoList)
+### [toDoList](https://github.com/aditisaha1089/toDoList)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 A clean, functional to-do list web app.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aditisaha1089&repo=toDoList&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=aditisaha1089&repo=toDoList&theme=radical&hide_border=true"/>
 
 </td>
 </tr>
@@ -204,23 +214,24 @@ A clean, functional to-do list web app.
 
 ---
 
-<h2 align="center">💬 Dev Quote</h2>
+<h2 align="center">Dev Quote</h2>
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
+<h2 align="center">At a Glance</h2>
 
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=aditisaha1089&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+<img src="https://img.shields.io/github/stars/aditisaha1089?style=for-the-badge&color=B76CFD&label=Total%20Stars"/>
+<img src="https://img.shields.io/github/last-commit/aditisaha1089/NeuRx_AI?style=for-the-badge&color=6c5ce7&label=Last%20Push%20(NeuRx_AI)"/>
 </div>
 
 ---
 
 <div align="center">
 
-### 📫 Let's Connect
+### Let's Connect
 
 <a href="https://linkedin.com/in/aditi-saha-736494327"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:aditi.saha.codes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
