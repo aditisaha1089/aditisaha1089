@@ -127,20 +127,6 @@ System Design      █████████████████░░░�
 <img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aditisaha1089&layout=compact&theme=radical&border_radius=10&cache_seconds=1800"/>
 </div>
 
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=aditisaha1089&theme=radical&border_radius=10"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditisaha1089&theme=redical&hide_border=true&area=true" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aditisaha1089&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</div>
-
-> 💡 All stats/pin cards above use **[github-stats-extended](https://github-stats-extended.vercel.app)**, the actively-maintained, stable successor to the old `github-readme-stats.vercel.app` (which has been repeatedly paused by its maintainer).
-
 ---
 
 <h2 align="center">Featured Project</h2>
